@@ -1,4 +1,5 @@
-# cat image screamer
+cat image screamer
+====================
 ## written by chapel1337
 
 # DISCLAIMER: I DID NOT MAKE THIS FOR MALICIOUS INTENT, 
