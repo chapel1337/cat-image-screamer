@@ -1,0 +1,51 @@
+/* written by chapel1337 */
+/* https://github.com/chapel1337/ */
+/* 
+    DISCLAIMER: I DID NOT MAKE THIS FOR MALICIOUS INTENT, 
+    I WAS JUST BORED AND WANTED TO MAKE SOMETHING FUNNY AND HARMLESS. 
+    PLEASE DO NOT USE THIS WITH MALICIOUS INTENT. 
+*/
+
+* {
+    font-family: monospace;
+}
+
+body {
+    background-color: lightskyblue;
+}
+
+#cookie {
+    height: 75%;
+    width: 75%;
+    background-color: darkcyan;
+    border: 2px solid black;
+    border-radius: 5%;
+    position: absolute;
+    left: 50%;
+    top: 48%;
+    transform: translate(-50%, -50%)
+}
+
+#cookie_p1, #cookie_p2 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#cookie_h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+#cookie_button1, #cookie_button2 {
+    width: 200px;
+    height: 75px;
+    font-size: 22px;
+    border-radius: 12%;
+    background-color: lightskyblue;
+    margin-top: 50px;
+    margin-left: 22%;
+}
+
+#cookie_button1:hover, #cookie_button2:hover {
+    background-color: rgb(122, 181, 218);
+}
